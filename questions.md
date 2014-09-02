@@ -4,8 +4,6 @@ Name:
 
 Country: 
 
-Hourly Rate: 
-
 Timezone: 
 
 Gmail Id: 

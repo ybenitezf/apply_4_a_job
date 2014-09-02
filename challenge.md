@@ -69,14 +69,16 @@ Jill's itinerary places her on:
 
 Test instructions: 
 
-Based on the above descriptions, write a program that allow creates (manually) itineraries for Jill and Joe and save them to a MySQL Database.  
+Based on the above descriptions, write a program that allow (manually) create the necesary objects to hold the itineraries for Jill and Joe and save them to a MySQL Database.  
 
 Create a functionality that Iterate each itinerary and create a printable report of the itineraries for both Jill and Joe. 
 
 Program must be written using Codeigniter framework
 
-Program must use ajax form submissions
+Program must use ajax form submissions. JS must be written using JQuery. Some sort of form validation must be set in place on the client side.
 
-Program must be done using resposive design
+Program must be done using resposive design by incorporating Twitter Bootstrap.
 
 Challenge must be completed within 3 days from the original pull.
+
+Good Luck!
