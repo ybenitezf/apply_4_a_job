@@ -15,7 +15,7 @@ Design a PHP program that supports the following requirements:
 Create a seat class. The seat class contains
 1. seat column (letters)
 2. seat row (numbers)
-3. Seat type (enum business/economy) 
+3. Seat type (enum business/economy)
 
 The seat class's row and column scheme stores the seat's number (e.g., "23B").
 
