@@ -53,7 +53,7 @@ Bootstrap - 8
       }
   };
   
-  // the statis method can be called with:
+  // the static method can be called with:
   MyClass::MyStaticMethod();  
 ?>
 
